@@ -25,3 +25,6 @@ You can also just copy thfo-role.php in your `/wp-content/mu-plugins` folder.
 
 ### 1.0.0 - 05 Dec 2017
 * Initial
+
+## Credits
+This is only a copy & paste of https://thereforei.am/2011/03/15/how-to-allow-administrators-to-edit-users-in-a-wordpress-network/
