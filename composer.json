@@ -1,0 +1,13 @@
+{
+        "name": "sebastienserre/ms-allow-admin-edit-user",
+    "description": "Allow Administrator to edit User's profile in a WP Multisite",
+    "license": "GPL-2.0",
+    "authors": [{
+        "name": "sebastienserre",
+        "email": "sebastien@thivinfo.com"
+    }],
+    "type": "wordpress-muplugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
